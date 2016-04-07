@@ -1,0 +1,4 @@
+def fahrenheit_to_celcius(temp):
+    assert type(temp) in (int, float)
+    assert (temp >= -459.67, "Under absolute zero")
+    return (temp - 32) / 1.8

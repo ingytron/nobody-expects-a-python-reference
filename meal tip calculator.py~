@@ -1,4 +1,4 @@
-# A calculator for figuring out how much to tip. As an Aussie, I either really need this or not at all.
+# Assign the variable total on line 8!
 
 meal = 44.50
 tax = 0.0675
